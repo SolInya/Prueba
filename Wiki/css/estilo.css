@@ -1,0 +1,35 @@
+#bienvenido{
+	margin: 25px 7px;
+	background:#CCFFFF;
+}
+.pxp{width: 520px;
+	margin: 8px 10px 8px 20px;
+	height: 100px;
+	background:#CCFFFF; 
+}
+.pxp1{width: 525px;
+	margin: 8px 1px;
+	height: 100px;
+	background:#00FA9A; 
+}
+.tec{width: 520px;
+	margin: 8px 10px 8px 35px;
+    background:#FFFFFF;
+	 border: solid;
+	 border-color:#BBE9FF;
+ }
+.tec1{width: 525px;
+	margin: 8px 1px;
+	background:#FFFFFF;
+	border: solid;
+	border-color:#BBE9FF; 
+}
+p{
+	font-size: 15px;
+}
+.f{font-size: 11px;
+
+}
+footer{
+background:#F6FFFF;
+}
